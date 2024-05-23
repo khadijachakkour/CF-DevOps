@@ -1,4 +1,4 @@
-name: Java Spring CI
+name: Java Maven CI
 
 on:
   push:
